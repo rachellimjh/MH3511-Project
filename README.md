@@ -50,4 +50,4 @@ We conclude that:
 Looking ahead, further research could explore additional variables that may influence sales trends, such as demographic factors, consumer preferences, and the impact of marketing strategies. Additionally, expanding the scope of analysis to encompass broader geographical regions or a more extensive time frame could provide deeper insights into long-term market dynamics and trends.
 
 ## Full Report
-For a comprehensive breakdown of our analysis and findings, you can view the full report [here](link).
+For a comprehensive breakdown of our analysis and findings, you can view the full report [here](https://github.com/rachellimjh/MH3511-Project/blob/main/MH3511%20coffee%20tea%20or%20me_%20ME!%20.pdf).
