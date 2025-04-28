@@ -6,6 +6,13 @@
 
 We used R for data analysis and RStudio as the development environment.
 
+**Team Members:**  
+☕ Suki Ng  
+🍵 Tay Shu Shuang  
+☕ Rachel Lim (Lin Jiahuan)  
+🍵 Chai Jie En  
+☕ Rheanne Leong En Ting  
+
 ## Abstract  
 The beverage landscape is divided between the two: coffee and tea, each with its own nuances and preferences. In this study, we delve into the intricate world of coffee and tea sales in the United States, leveraging a comprehensive dataset spanning the years 2012-2015. Our analysis aims to uncover key insights into consumer behaviour, market dynamics, and the factors influencing sales patterns in this industry.
 
